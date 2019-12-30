@@ -1,0 +1,11 @@
+{
+  "name": "@tobeai/auto-render",
+  "version": "0.0.1",
+  "description": "配置数据, 自动渲染组件,区块,排版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL"
+}
